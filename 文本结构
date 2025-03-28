@@ -1,0 +1,13 @@
+│  index.html                # 主页（教育管理根节点）
+│  styles.css                # 全局样式
+│
+├─admin-management           # 行政管理节点
+│      index.html
+│
+├─curriculum-management      # 课程管理节点
+│      index.html
+│      course-development.html
+│      learning-standards.html
+│
+└─hr-management              # 人员管理节点
+        index.html
